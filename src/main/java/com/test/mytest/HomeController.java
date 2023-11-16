@@ -15,6 +15,8 @@ public class HomeController {
 		String commit_1 = "asdf";
 		String commit_2 = "asdf";
 		
+		String commit_3 = "asdf";
+		
 		return "home";
 	}
 	
